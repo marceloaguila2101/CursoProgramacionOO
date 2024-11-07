@@ -3,7 +3,7 @@ package com.arquitecturajava.ejemplo06casting;
 public class Principal {
 	
 	public static void main(String [] args) {
-		Persona p1 = new Deportista("Carlos", "Padel");
+		Persona p1 = new Deportista("javier", "Padel");
 		
 		p1.getNombre();
 		p1.andar();
