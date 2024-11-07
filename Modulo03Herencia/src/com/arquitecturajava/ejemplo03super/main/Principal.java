@@ -13,7 +13,7 @@ public class Principal {
 		
 		//Deportista
 		Deportista d1 = new Deportista();
-		d1.setNombre("Pedro");
+		d1.setNombre("Javier");
 		d1.setDeporte("Tenis");
 		d1.andar();
 		
